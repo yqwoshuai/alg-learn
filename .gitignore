@@ -4,3 +4,8 @@ dist
 dist-ssr
 *.local
 src/App.vue
+src/index.js
+index.html
+package-lock.json
+package.json
+vite.config.js
